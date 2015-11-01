@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is similar to a directory, in the way that it contains files.  The master branch can used to track your latest commit as it will always point to the latest commit.  Everytime you create a new branch you are able to find more commits.  
